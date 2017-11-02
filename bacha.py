@@ -1,7 +1,7 @@
 import http.client, urllib.request, urllib.parse, urllib.error, base64, requests, json
 
 def getage():
-    subscription_key = '2c2c93c599a841e5ac01a2e0635fe3be'
+    subscription_key = '2c2c93c599a86540841e5ac01a2e0635fe3be'
     uri_base = 'https://westcentralus.api.cognitive.microsoft.com'
     # Request headers.
     headers = {
